@@ -1,0 +1,11 @@
+--2026-02-11 11:14:15--  https://raw.githubusercontent.com/FabricMC/fabric-example-mod/1.21/gradle/wrapper/gradle-wrapper.jar
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45633 (45K) [application/octet-stream]
+Saving to: ‘gradle-wrapper.jar’
+
+gradle-wrapper.jar                  0%[                                                              ]       0  --.-KB/s               gradle-wrapper.jar                100%[=============================================================>]  44.56K  --.-KB/s    in 0.04s   
+
+2026-02-11 11:14:15 (1.22 MB/s) - ‘gradle-wrapper.jar’ saved [45633/45633]
+
