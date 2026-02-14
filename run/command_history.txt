@@ -1,1 +1,2 @@
 /give @a tennis:tennis_raqcuet
+/give @a tennis:diamond_racket
