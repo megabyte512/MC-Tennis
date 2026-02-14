@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Fabric/Minecraft
+run/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
