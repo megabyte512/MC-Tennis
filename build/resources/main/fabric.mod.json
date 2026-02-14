@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "tennis",
+	"version": "1.0.0",
+	"name": "Tennis Mod",
+	"description": "Play tennis in Minecraft!",
+	"authors": ["megabyte512"],
+	"contact": {},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.megabyte512.tennis.TennisMod"]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
