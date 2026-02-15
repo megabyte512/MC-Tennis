@@ -31,7 +31,7 @@ public class TennisMod implements ModInitializer {
 		DIAMOND_RACKET = Registry.register(Registries.ITEM, key, new Item(settings));
 		
 		// Add to creative tab
-		ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {
+		ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {
 			content.add(DIAMOND_RACKET);
 		});
 		
