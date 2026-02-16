@@ -3,6 +3,7 @@
 build/
 out/
 bin/
+external_libraries/
 
 # IDE
 .idea/
